@@ -1,0 +1,14 @@
+percunctor:to interrogate.
+percunctor:insert failed
+vota:vows, wishes.
+A:insert failed
+lodix:lookup failed
+lodix:remove failed
+vivax:lively.
+vivax:remove success
+A:a
+jia:insert success
+A:remove success
+jia:xun
+A:lookup failed
+status 0.42 2.11

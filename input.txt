@@ -1,0 +1,14 @@
+lookup percunctor
+insert percunctor inquire, interrogate, investigate
+lookup vota
+insert A a
+lookup lodix
+remove lodix
+lookup vivax
+remove vivax
+lookup A
+insert jia xun
+remove A
+lookup jia
+lookup A
+status
